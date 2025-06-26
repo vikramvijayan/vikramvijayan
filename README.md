@@ -4,10 +4,10 @@
 - ⚡ These projects are related to understanding fundamental principles of brains using the fruit fly model organism.
 - ⚡ Feel free to contact me for newer versions of this code.
 - ⚡ Other projects that I have led that are not on my Github, include:
-  - Bioinformatics pipelines to analyze RNA methylation seq datasets. (PYTHON)
-  - Connectomics pipelines to analyze all the neuronal connections in the fruit fly brain. (PYTHON)
-  - Bioinformatics pipelines for analysis of RNA seq, ChIP seq, and microarray datasets. This includes data processing, transcript identification, data analysis/visualization, and more. (MATLAB)
-  - Simulation pipelines to model biological pathways within cells. (MATLAB)
+  - Bioinformatics pipelines to analyze RNA methylation seq datasets. **(PYTHON)**
+  - Connectomics pipelines to analyze all the neuronal connections in the fruit fly brain. **(PYTHON)**
+  - Bioinformatics pipelines for analysis of RNA seq, ChIP seq, and microarray datasets. This includes data processing, transcript identification, data analysis/visualization, and more. **(MATLAB)**
+  - Simulation pipelines to model biological pathways within cells. **(MATLAB)**
   
 
 <!--
