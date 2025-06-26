@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Vikram. 
 
-- ⚡ The code here is old, and is meant to simply highlight a few of the projects I have led. All the code shared was written by me.
+- ⚡ The code here is old, circa 2020, and is meant to simply highlight a few of the projects I have led. All the code shared was written by me.
 - ⚡ These projects are related to understanding fundamental principles of brains using the fruit fly model organism.
 - ⚡ Feel free to contact me for newer versions of this code.
 - ⚡ Other projects that I have led that are not on my Github, include:
