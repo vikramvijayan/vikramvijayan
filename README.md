@@ -8,7 +8,7 @@
 - ⚡ Other projects that I have led that are not on my Github, include:
   - Bioinformatics pipelines to analyze RNA methylation seq datasets. **(PYTHON)** [manuscript in prep]
   - Connectomics pipelines to analyze all the neuronal connections in the fruit fly brain. **(PYTHON)** [Nature](https://www.nature.com/articles/s41586-023-06271-6)
-  - Bioinformatics pipelines to analyze RNA seq, ChIP seq, and microarray datasets. This includes data processing, transcript identification, data analysis/visualization, and more. **(MATLAB)** [Genome Biology] (https://genomebiology.biomedcentral.com/articles/10.1186/gb-2011-12-5-r47) [PNAS](https://www.pnas.org/doi/10.1073/pnas.0912673106) [J Bacteriology](https://journals.asm.org/doi/full/10.1128/jb.02012-12)
+  - Bioinformatics pipelines to analyze RNA seq, ChIP seq, and microarray datasets. This includes data processing, transcript identification, data analysis/visualization, and more. **(MATLAB)** [Genome Biology](https://genomebiology.biomedcentral.com/articles/10.1186/gb-2011-12-5-r47) [PNAS](https://www.pnas.org/doi/10.1073/pnas.0912673106) [J Bacteriology](https://journals.asm.org/doi/full/10.1128/jb.02012-12)
   - Simulation pipelines to model biological pathways within cells. **(MATLAB)** [ACC](https://ieeexplore.ieee.org/abstract/document/1470672)
   
 
