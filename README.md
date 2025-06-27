@@ -2,7 +2,7 @@
 
 - ⚡ The code here is meant to highlight a few of the projects I have led. It isn't up-to-date and is from circa 2020. All code was written by me.
   - Older code is typically in MATLAB. Newer code is typically in PYTHON. I have past experience with many other languages [LinkedIn](https://www.linkedin.com/in/vikram-vijayan/)
-- ⚡ These projects are related to understanding fundamental principles of brains using the fruit fly model organism. [Nature](https://www.nature.com/articles/s41586-023-06271-6) [Science Advances](https://www.science.org/doi/10.1126/sciadv.abn3852)
+- ⚡ The projects here are related to understanding fundamental principles of brains using the fruit fly model organism. [Nature](https://www.nature.com/articles/s41586-023-06271-6) [Science Advances](https://www.science.org/doi/10.1126/sciadv.abn3852)
 - ⚡ Feel free to contact me for newer versions of this code.
 - ⚡ Other projects that I have led that are not on my Github, include:
   - Bioinformatics pipelines to analyze RNA methylation seq datasets. **(PYTHON)** [manuscript in prep]
